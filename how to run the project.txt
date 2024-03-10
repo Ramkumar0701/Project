@@ -1,0 +1,8 @@
+check python is installed in your system
+install django from where you store the project file - pip install django
+go to the file path
+run the command - python manage.py runserver
+
+eg:
+
+C:\Users\Laptop Service\Desktop\evaluate>python manage.py runserver
